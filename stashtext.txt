@@ -1,0 +1,6 @@
+this file is used to test the stash command
+git stash <filename> #to stash after the staging area
+git stash -u # to stash before the staging area 
+git pop <filename> #removes the history from stash list
+git apply <filename> #to hold the history in the stash list 
+
